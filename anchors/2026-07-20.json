@@ -1,0 +1,6 @@
+{
+  "date": "2026-07-20",
+  "tip_hash": "1581972915fe25ec33b9f7ccc41b7342a7a34027e3df4b8521d38bd3890e8493",
+  "entry_count": 35,
+  "note": "SHA-256 tip of the Anti-Time Theft Logger device_logs hash chain as of this date. Verify: hash any log entry with its stored prev_hash, device_id, license_key, entry, and created_at (see licensing-backend migration 0004_tamper_proof_log.sql for the exact formula) and confirm the chain leads to this tip."
+}
